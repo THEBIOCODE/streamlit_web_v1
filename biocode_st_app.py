@@ -1,4 +1,8 @@
 # app.py
+# .git 디렉토리에서 하위 명령어 실행.
+# git add .
+# git commit 
+# git push -u origin main
 
 import streamlit as st
 import pandas as pd
