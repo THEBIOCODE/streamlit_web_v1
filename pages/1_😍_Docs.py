@@ -5,7 +5,7 @@ import streamlit as st
 # 페이지 기본 설정
 st.set_page_config(
     page_icon="🐼",
-    page_title="삼성전자 시스템최적화 그룹 오지웅/ KPI 지표 ",
+    page_title="biocode 데이터 분석 웹페이지 ",
     layout="wide",
 )
 
